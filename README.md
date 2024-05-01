@@ -1,0 +1,1 @@
+# python-intern_assignment
